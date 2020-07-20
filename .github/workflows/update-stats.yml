@@ -2,7 +2,7 @@ name: Update stats
 
 on:
   schedule:
-    # Runs at 11am UTC
+    # Runs at 12am UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
