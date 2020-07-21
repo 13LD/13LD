@@ -9,4 +9,7 @@ This is the place where I opensource stuff/do my job and break things :rofl:
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
