@@ -17,3 +17,11 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 <!--END_SECTION:waka-->
+
+👨‍🏫 **You can create repo with your github Username and this board will appear on your profile page**
+
+
+ℹ️ **Additional info**
+1. [Wakatime](https://wakatime.com/integrations) for tracking your work
+2. [Waka Readme](https://github.com/athul/waka-readme) - github workflow for timetracking languages daily update
+3. If you have any questions - send them to my public email or github issues :)
