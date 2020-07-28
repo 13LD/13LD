@@ -23,4 +23,4 @@ Slim    0 secs          ░░░░░░░░░░░░░░░░░░�
 
 ℹ️ **Additional info**
 
-[Setup info](https://github.com/13LD/13LD/blob/master/README.md)
+[Setup info](https://github.com/13LD/13LD/blob/master/SETUP.md)
