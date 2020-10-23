@@ -10,7 +10,7 @@ This is the place where I opensource stuff/do my job and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Ruby       7 mins          █████████████████████████   99.62 % 
+
 ```
 <!--END_SECTION:waka-->
 
